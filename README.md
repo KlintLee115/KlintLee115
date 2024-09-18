@@ -4,7 +4,7 @@
 
 Hello, I'm Klint Lee, a Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada.
 
-I possess a versatile technical skill set, including proficiency in JavaScript, HTML5, CSS, Python, C#, Postgres DB, ASP.Net and more. My professional journey is highlighted by becoming a team lead at Empowered Futures, leading over 15 members to plan and implement features.
+My professional journey is highlighted by becoming a team lead at Empowered Futures, leading over 15 members to plan and implement features.
 
 ### Contact Me
 
