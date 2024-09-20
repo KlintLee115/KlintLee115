@@ -34,6 +34,8 @@ My professional journey is highlighted by becoming a team lead at Empowered Futu
 <img align="left" alt="Graph QL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <br />
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
