@@ -2,9 +2,7 @@
 
 *Software Developer / Web Developer*
 
-Hello, I'm Klint Lee, a Software Developer currently enrolled in the Software Development program at the Southern Alberta Institute of Technology (SAIT) in Calgary, AB, Canada.
-
-My professional journey is highlighted by becoming a team lead at Empowered Futures, leading over 15 members to plan and implement features.
+Hello, I'm Klint Lee, a Full Stack Software Developer based in Seri Kembangan, Selangor, Malaysia.
 
 ### Contact Me
 
